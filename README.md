@@ -18,12 +18,13 @@ Repo contians various software development methodology used in the Industry
 ## Software Development Process Approaches
 - Each process model follows a Series of steps unique to its type to ensure success in the process of software development.
   
-  - Waterfall Model
-  - Iterative Model
-  - Spiral Model
-  - V-Model
-  - Big Bang Model
+  - **Waterfall Model** : Linear-Sequential life cycle model. This means that any phase in the development process begins only if the previous phase is complete. In          this waterfall model, the phases do not overlap.
+  
+  - **Iterative Model**
+  - **Spiral Model**
+  - **V-Model**
+  - **Big Bang Model**
   - **Agile** 
-  - RAD [Rapid Application Development]
-  - Prototyping Models
+  - **RAD** [Rapid Application Development]
+  - **Prototyping Models**
 
