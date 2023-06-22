@@ -31,6 +31,15 @@ Repo contians various software development methodology used in the Industry
 <img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/99f8f1cf-8f63-4986-acc7-1f9055b74dd5"  width="40%" height="40%">
    
   - **Spiral Model**
+    - The spiral model combines the idea of iterative development with the systematic, controlled aspects of the waterfall model
+    - The spiral model has four phases.
+      - Identification
+      - Design
+      - Construct or Build
+      - Evaluation and Risk Analysis
+
+<img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/f1db90e1-2077-4b56-8787-b12e3c0a5020"  width="40%" height="40%">
+
   - **V-Model**
   - **Big Bang Model**
   - **Agile** 
