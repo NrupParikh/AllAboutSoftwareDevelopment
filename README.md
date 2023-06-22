@@ -29,6 +29,7 @@ Repo contians various software development methodology used in the Industry
       - Iterative process starts with a simple implementation of a subset of the software requirements and iteratively enhances the evolving versions until the full            system is implemented
 
 <img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/99f8f1cf-8f63-4986-acc7-1f9055b74dd5"  width="40%" height="40%">
+
    
   - **Spiral Model**
     - The spiral model combines the idea of iterative development with the systematic, controlled aspects of the waterfall model
@@ -40,7 +41,15 @@ Repo contians various software development methodology used in the Industry
 
 <img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/f1db90e1-2077-4b56-8787-b12e3c0a5020"  width="40%" height="40%">
 
-  - **V-Model**
+
+
+  - **V-Model** [ Verification and Validation model]
+    - Extension of the **waterfall** model plus **testing** of each development  phase
+    - Highly-disciplined model
+
+<img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/82e304dc-6b18-4929-8c77-b840e44dbad4"  width="40%" height="40%">
+  
+  
   - **Big Bang Model**
   - **Agile** 
   - **RAD** [Rapid Application Development]
