@@ -49,7 +49,18 @@ Repo contians various software development methodology used in the Industry
 
 <img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/82e304dc-6b18-4929-8c77-b840e44dbad4"  width="40%" height="40%">
   
-  
+      - **Business Requirement Analysis**
+      - **System Design**
+      - **Architectural Design** : [**HLD** : High Level Design]
+      - **Module Design** : [ **LLD** : Lowe Level Design ]
+      - **Coding Phase** : Best suitable programming language is decided
+      - **Validation Phases**
+        - Unit Testing
+        - Integration Testing
+        - System Testing
+        - Acceptance Testing
+
+        
   - **Big Bang Model**
   - **Agile** 
   - **RAD** [Rapid Application Development]
