@@ -46,3 +46,5 @@ Repo contians various software development methodology used in the Industry
   - **RAD** [Rapid Application Development]
   - **Prototyping Models**
 
+### References
+https://www.tutorialspoint.com/sdlc/
