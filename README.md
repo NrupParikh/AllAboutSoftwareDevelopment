@@ -23,8 +23,13 @@ Repo contians various software development methodology used in the Industry
       - In this waterfall model, the phases do not overlap.
 
 <img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/82663dbe-bfc8-488b-af90-80cd17ea35bd"  width="40%" height="40%">
+
   
-  - **Iterative Model**
+  - **Iterative Model** [incremental build]
+      - Iterative process starts with a simple implementation of a subset of the software requirements and iteratively enhances the evolving versions until the full            system is implemented
+
+<img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/99f8f1cf-8f63-4986-acc7-1f9055b74dd5"  width="40%" height="40%">
+   
   - **Spiral Model**
   - **V-Model**
   - **Big Bang Model**
