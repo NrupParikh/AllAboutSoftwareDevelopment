@@ -21,6 +21,8 @@ Repo contians various software development methodology used in the Industry
   - **Waterfall Model** : Linear-Sequential life cycle model.
       - This means that any phase in the development process begins only if the previous phase is complete.
       - In this waterfall model, the phases do not overlap.
+
+<img src="https://github.com/NrupParikh/AllAboutSoftwareDevelopment/assets/108717119/82663dbe-bfc8-488b-af90-80cd17ea35bd"  width="40%" height="40%">
   
   - **Iterative Model**
   - **Spiral Model**
