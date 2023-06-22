@@ -16,5 +16,14 @@ Repo contians various software development methodology used in the Industry
 - **Maintanance** - Optimise and Resolve bugs and/or blockers. [**CR** : Change Request] Server Maintanance and load balancing
 
 ## Software Development Process Approaches
-- Waterfall
-- Agile
+- Each process model follows a Series of steps unique to its type to ensure success in the process of software development.
+  
+  - Waterfall Model
+  - Iterative Model
+  - Spiral Model
+  - V-Model
+  - Big Bang Model
+  - **Agile** 
+  - RAD [Rapid Application Development]
+  - Prototyping Models
+
